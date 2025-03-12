@@ -6,7 +6,7 @@ To set up and run this project, follow these steps:
 
 ### **1. Clone the Repository**
 ```bash
-git clone [https://github.com/your-repository-link.git]
+git clone (https://github.com/knight22-21/ImagoAI)
 cd ImagoAI
 ```
 
